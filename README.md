@@ -1,6 +1,6 @@
 <!-- Banner (optional) -->
 <p align="center">
-  <img src="https://github.com/tpaulszemere/tpaulszemere/blob/main/assets/banner_ai_behavioral_pricing.png" width="100%" alt="Behavioral Pricing & AI Banner">
+  <img src="[https://github.com/tpaulszemere/tpaulszemere/blob/main/assets/banner_ai_behavioral_pricing.png](https://avatars.githubusercontent.com/u/247025883?s=400&u=0138fdb5aa5d433a6fdeab4e26c08ab108488a6f&v=4)" width="100%" alt="Behavioral Pricing & AI Banner">
 </p>
 
 # 👋 Hi, I'm Paul  
