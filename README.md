@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/247025883?s=400&u=0138fdb5aa5d433a6fdeab4e26c08ab108488a6f&v=4" width="30%" alt="Profile Banner"/>
 </p>
 
-# 👋 Hi, I'm Paul  
+# 👋 Hi, I'm T. Paul  
 ### **PhD Economist | Behavioral Pricing & Decision Science | AI/ML in Progress | Former University Lecturer**
 
 ---
