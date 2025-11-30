@@ -1,7 +1,6 @@
-## Hi there 👋
-<!-- Banner -->
+<!-- Banner (optional) -->
 <p align="center">
-  <img src="https://github.com/paul/paul/blob/main/assets/banner_ai_behavioral_pricing.png" width="100%" alt="Behavioral Pricing & AI Banner">
+  <img src="https://github.com/tpaulszemere/tpaulszemere/blob/main/assets/banner_ai_behavioral_pricing.png" width="100%" alt="Behavioral Pricing & AI Banner">
 </p>
 
 # 👋 Hi, I'm Paul  
@@ -50,7 +49,7 @@ Today I am transitioning into **AI & Machine Learning**, focusing on integrating
 # 📊 Highlighted Projects (in progress)
 
 ### 🧮 **Behavioral Pricing Engine (PyTorch)**
-A neural-based model predicting price sensitivity and decision thresholds under behavioral conditions.
+A neural-based model predicting price sensitivity and decision thresholds under various behavioral conditions.
 
 ### 🧠 **Risk Perception Model (B2B & B2C)**
 ML model estimating perceived risk, uncertainty tolerance, and trust dynamics.
@@ -62,9 +61,9 @@ AI-powered classifier identifying cognitive biases in economic decision-making.
 Microeconomic simulation environment for pricing, elasticity, and surplus modeling.
 
 ### ⚕️ **Health Behavior Prediction Model**
-NN predicting behavior under stress/trauma-based conditions (synthetic datasets).
+Neural network predicting behavior under stress/trauma-based conditions (synthetic datasets).
 
-> *(These repositories will appear automatically once uploaded.)*
+> *(These repositories will populate automatically once uploaded.)*
 
 ---
 
@@ -72,16 +71,16 @@ NN predicting behavior under stress/trauma-based conditions (synthetic datasets)
 - **PhD in Economics**  
 - Former **University Lecturer** (Micro, Macro, Decision Theory, Behavioral Economics)  
 - Researcher in risk perception, choice under uncertainty, and pricing psychology  
-- 10+ years in **interior design & construction** (commercial spaces, human-centered design)  
-- Former business communication mentor & trainer  
-- Experience in behavioral experiment design  
+- 10+ years in **interior design & construction** (commercial interiors, human-centered design)  
+- Business communication mentor & trainer  
+- Experience in behavioral experiment and survey design  
 
 ---
 
 # 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paul&theme=default" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul&layout=compact" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tpaulszemere&theme=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpaulszemere&layout=compact" width="38%" />
 </p>
 
 ---
@@ -89,10 +88,10 @@ NN predicting behavior under stress/trauma-based conditions (synthetic datasets)
 # 🌍 Connect With Me
 📫 Email: *add your email here*  
 📍 Fort Lauderdale, FL  
-🔎 Open to: Remote US roles in **AI/ML, Pricing Analytics, Behavioral Science, Decision Intelligence, HealthTech**  
+🔎 Open to: Remote US roles in **AI/ML, Pricing Analytics, Behavioral Science, Decision Intelligence, and HealthTech**
 
 ---
 
 # ☕ Support My Work
-If you find my projects useful, consider leaving a ⭐ — it means a lot!
+If you find my projects helpful, consider leaving a ⭐ — it truly means a lot!
 
