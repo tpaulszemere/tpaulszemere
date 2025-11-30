@@ -1,6 +1,5 @@
-<!-- Banner (optional) -->
 <p align="center">
-  <img src="[https://github.com/tpaulszemere/tpaulszemere/blob/main/assets/banner_ai_behavioral_pricing.png](https://avatars.githubusercontent.com/u/247025883?s=400&u=0138fdb5aa5d433a6fdeab4e26c08ab108488a6f&v=4)" width="100%" alt="Behavioral Pricing & AI Banner">
+  <img src="https://avatars.githubusercontent.com/u/247025883?s=400&u=0138fdb5aa5d433a6fdeab4e26c08ab108488a6f&v=4" width="30%" alt="Profile Banner"/>
 </p>
 
 # 👋 Hi, I'm Paul  
@@ -18,7 +17,7 @@ For over **10 years**, I worked as a **researcher and university lecturer**, tea
 - Behavioral Economics  
 - Risk and Uncertainty Analysis  
 
-My academic work explored **how individuals and organizations evaluate risk, value, and trust**, and how past experiences (including stress & trauma) shape real-world decision-making.
+My academic work explored **how individuals and organizations evaluate risk, value, and trust**, and how past experiences (including stress & trauma) shape decision-making.
 
 Today I am transitioning into **AI & Machine Learning**, focusing on integrating behavioral insights into predictive systems, pricing intelligence, and decision-optimization models.
 
@@ -49,7 +48,7 @@ Today I am transitioning into **AI & Machine Learning**, focusing on integrating
 # 📊 Highlighted Projects (in progress)
 
 ### 🧮 **Behavioral Pricing Engine (PyTorch)**
-A neural-based model predicting price sensitivity and decision thresholds under various behavioral conditions.
+A neural-based model predicting price sensitivity and decision thresholds under behavioral conditions.
 
 ### 🧠 **Risk Perception Model (B2B & B2C)**
 ML model estimating perceived risk, uncertainty tolerance, and trust dynamics.
@@ -61,9 +60,9 @@ AI-powered classifier identifying cognitive biases in economic decision-making.
 Microeconomic simulation environment for pricing, elasticity, and surplus modeling.
 
 ### ⚕️ **Health Behavior Prediction Model**
-Neural network predicting behavior under stress/trauma-based conditions (synthetic datasets).
+Neural-network model predicting behavior under stress/trauma-based conditions.
 
-> *(These repositories will populate automatically once uploaded.)*
+> *(These repositories will appear automatically once uploaded.)*
 
 ---
 
