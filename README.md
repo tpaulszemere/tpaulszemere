@@ -86,8 +86,8 @@ Neural-network model predicting behavior under stress/trauma-based conditions.
 ---
 
 # 🌍 Connect With Me
-📫 Email: *add your email here*  
-📍 Fort Lauderdale, FL  
+📫 Email: t.paul.szemere@gmail.com  
+📍 United State of America  
 🔎 Open to: Remote US roles in **AI/ML, Pricing Analytics, Behavioral Science, Decision Intelligence, and HealthTech**
 
 ---
